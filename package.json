@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielazalta/jest-another-RPG.git"
+  },
+  "author": "Gabriela Zalta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielazalta/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/gabrielazalta/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
